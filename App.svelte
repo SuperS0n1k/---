@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://framework7.io/css/main.css"></link>
 <Page>
   <Navbar title="Toggle"></Navbar>
   <BlockTitle>Super Heroes</BlockTitle>
