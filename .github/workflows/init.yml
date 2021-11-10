@@ -8,6 +8,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
       - name: Install Dependencies
-        run: npm install framework7-svelte
+        run: npm install framework7
       - name: Install
-        run: npm i framework7-svelte
+        run: npm install framework7-svelte
